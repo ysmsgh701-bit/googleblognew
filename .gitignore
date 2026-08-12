@@ -1,0 +1,13 @@
+# OAuth secrets — never commit
+config/credentials/
+
+# bkit runtime state
+.bkit/
+
+# local Claude Code state
+.claude/scheduled_tasks.lock
+
+# OS / OneDrive artifacts
+desktop.ini
+Thumbs.db
+.DS_Store

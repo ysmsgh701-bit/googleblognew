@@ -1,0 +1,19 @@
+{
+  "blog_url": "https://finance-ai-note.blogspot.com/",
+  "blog_id": "5081823383850939513",
+  "labels_axes": [
+    "AI 재무실무",
+    "AI도구",
+    "재무지식"
+  ],
+  "publish_rules": {
+    "max_posts_per_day": 1,
+    "pace": "daily",
+    "auto_publish": true,
+    "schedule": "daily 01:00 local (Windows Task Scheduler: FinanceAINote-Nightly)"
+  },
+  "credentials": {
+    "client_secret": "config/credentials/client_secret.json",
+    "token": "config/credentials/token.json"
+  }
+}

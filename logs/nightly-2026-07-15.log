@@ -1,0 +1,10 @@
+﻿[START] 2026-07-15T03:48:43.6938219+02:00
+API Error: Stream idle timeout - partial response received
+claude.exe : SessionEnd hook [node "${CLAUDE_PLUGIN_ROOT}/scripts/session-end-handler.js"] failed: Hook cancelled
+위치 C:\Users\ysmsg\AppData\Roaming\npm\claude.ps1:14 문자:3
++   & "$basedir/node_modules/@anthropic-ai/claude-code/bin/claude.exe"  ...
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (SessionEnd hook... Hook cancelled:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+[END] 2026-07-15T04:57:49.7194884+02:00 exit=1

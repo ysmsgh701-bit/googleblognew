@@ -1,0 +1,6 @@
+﻿[START] 2026-08-10T01:00:02.8711076+02:00
+[ATTEMPT 1] 2026-08-10T01:00:02.9071942+02:00
+Failed to authenticate: OAuth session expired and could not be refreshed
+[ATTEMPT 2] 2026-08-10T01:05:10.8808074+02:00
+Failed to authenticate: OAuth session expired and could not be refreshed
+[END] 2026-08-10T01:05:14.2989611+02:00 exit=1
